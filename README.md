@@ -5,6 +5,10 @@
 
 - 🔭 I’m currently working on **AI Walpaper Creator App**
 
+- 🌱 I’m currently learning **React Native,Node.js**
+
+- 📫 How to reach me **berkanhalil1907@outlook.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
