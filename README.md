@@ -3,7 +3,7 @@
 <h3 align="center">A passionate React Native Developer</h3>
 
  I am a fourth-year university student and I stand out with my interest in software development. Here's some more detailed information:
-About me
+
 As I approach the end of my university life, my interest in software development is stronger than ever.
 I specifically focus on mobile application development using React Native technology.
 I am currently using React Native and I have had the opportunity to work on many projects during this period.
