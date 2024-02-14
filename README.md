@@ -9,7 +9,12 @@ I specifically focus on mobile application development using React Native techno
 I am currently using React Native and I have had the opportunity to work on many projects during this period.
 I constantly strive to improve and learn more.
 If you have questions or want to learn more about my projects, feel free to contact us. I would be happy to be with you on my development journey!
-<img align ="right" alt="Coding" width="400" src = "https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif">
+
+
+<img align ="right" alt="Coding" width="400" src = "[https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdpcG85YzFkNG8zbmR0M3IzeWo0cGM0dHlncTU2cW9pcmlic2FydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)">
+
+
+
 - 🔭 I’m currently working on [AI Walpaper Creator App](https://github.com/DBerkan/AI-Image-Generator-React-Native)
 
 - 🌱 I’m currently learning **React Native,Node.js**
