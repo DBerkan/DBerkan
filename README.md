@@ -1,3 +1,4 @@
+[![MasterHead](https://www.vecteezy.com/vector-art/2214642-web-designer-and-programmer)
 
 <h1 align="center"> Hi there 👋  I'm Berkan</h1>
 <h3 align="center">A passionate React Native Developer</h3>
@@ -11,7 +12,7 @@ I constantly strive to improve and learn more.
 If you have questions or want to learn more about my projects, feel free to contact us. I would be happy to be with you on my development journey!
 
 
-<img align ="right" alt="Coding" width="400" src = "[https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdpcG85YzFkNG8zbmR0M3IzeWo0cGM0dHlncTU2cW9pcmlic2FydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)">
+<img align ="right" alt="Coding" width="400" src = "https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif">
 
 
 
