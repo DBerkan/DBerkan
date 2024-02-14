@@ -8,7 +8,6 @@ As I approach the end of my university life, my interest in software development
 I particularly focus on mobile app development, especially using [React Native] technology.
 I am currently using React Native, and during this process, I have had the opportunity to work on numerous projects.
 I consistently put effort into improving and learning more.
-
 If you have any questions or would like more information about my projects, feel free to reach out. I would be delighted to have you alongside me on my development journey! </h4>
 
 
