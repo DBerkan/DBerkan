@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there 👋  I'm Berkan</h1>
 <h3 align="center">A passionate React Native Developer</h3>
 
-- 🔭 I’m currently working on **AI Walpaper Creator App**
+- 🔭 I’m currently working on [AI Walpaper Creator App](https://github.com/DBerkan/AI-Image-Generator-React-Native)
 
 - 🌱 I’m currently learning **React Native,Node.js**
 
