@@ -2,14 +2,13 @@
 <h1 align="center"> Hi there 👋  I'm Berkan</h1>
 <h3 align="center">A passionate React Native Developer</h3>
 
-Hello! I am [Name], a fourth-year university student, and I stand out with my interest in software development. Here is a bit more detailed information:
-About Me
+ I am a fourth-year university student and I stand out with my interest in software development. Here's some more detailed information:
+About me
 As I approach the end of my university life, my interest in software development is stronger than ever.
-I particularly focus on mobile app development, especially using [React Native] technology.
-I am currently using React Native, and during this process, I have had the opportunity to work on numerous projects.
-I consistently put effort into improving and learning more.
-If you have any questions or would like more information about my projects, feel free to reach out. I would be delighted to have you alongside me on my development journey! 
-
+I specifically focus on mobile application development using React Native technology.
+I am currently using React Native and I have had the opportunity to work on many projects during this period.
+I constantly strive to improve and learn more.
+If you have questions or want to learn more about my projects, feel free to contact us. I would be happy to be with you on my development journey!
 
 - 🔭 I’m currently working on [AI Walpaper Creator App](https://github.com/DBerkan/AI-Image-Generator-React-Native)
 
