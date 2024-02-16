@@ -15,7 +15,7 @@ If you have questions or want to learn more about my projects, feel free to cont
 
 
 
-- 🔭 I’m currently working on [AI Walpaper Creator App](https://github.com/DBerkan/AI-Image-Generator-React-Native)
+- 🔭 I’m currently working on [AI Wallpaper Creator App](https://github.com/DBerkan/AI-Image-Generator-React-Native)
 
 - 🌱 I’m currently learning **React Native,Node.js**
 
